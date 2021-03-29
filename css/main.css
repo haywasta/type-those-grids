@@ -34,3 +34,26 @@ main {
   align-self: end;
   color: #fff;
 }
+
+h1 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+h2 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 1.5rem;
+  margin: 0 0 1.5rem;
+}
+
+header {
+padding: 1.5rem 1rem;
+
+}
+
+p {
+  padding: 1.5rem 1rem;
+}

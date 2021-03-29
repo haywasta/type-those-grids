@@ -18,4 +18,8 @@ body {
 
 main {
   display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-areas:
+  "banner banner banner"
+  "col1 col2 col3";
 }

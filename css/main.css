@@ -8,19 +8,10 @@ html {
   box-sizing: inherit;
 }
 
-h1 {
-  font-style: oblique;
-  font-weight: normal;
-  font-size: 1.8rem;
+img {
+  width: 100%;
 }
 
-h2 {
-  font-style: oblique;
-  font-weight: normal;
-  font-size: 1.5rem;
-}
-
-dl {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+body {
+  margin: 0;
 }
